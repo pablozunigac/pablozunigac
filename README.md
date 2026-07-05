@@ -1,4 +1,5 @@
-## Hi there 👋
+Designing the underlying structures that make complex work coherent, navigable, and executable.  
+I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 <!--
 **pablozunigac/pablozunigac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
