@@ -1,5 +1,11 @@
+### Hi, I'm Pablo Zúñiga  
+**Industrial & Systems Engineer | Data Engineering & Infrastructure**  
 Designing the underlying structures that make complex work coherent, navigable, and executable.
-<!--
+
+🌐 **Interactive Portfolio & Resume:** pablozunigac.github.io  
+🛠️ Featured Infrastructure Project: [Link a tu repositorio de código duro / Sernageomin]<!--
+
+
 **pablozunigac/pablozunigac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
