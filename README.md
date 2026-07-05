@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo Zúñiga  
-**Industrial & Systems Engineer | Data & Complex Systems Engineering**  
-**Interactive Resume:** pablozunigac.github.io  
+**Industrial & Systems Engineer / Data & Complex Systems Engineering**  
+**Interactive Resume:** [pablozunigac.github.io](http://pablozunigac.github.io)  
 Designing the underlying structures that make complex work coherent, navigable, and executable.
 
 <!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
