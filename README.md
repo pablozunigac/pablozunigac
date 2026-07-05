@@ -1,10 +1,11 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer / Data & Complex Systems Engineering**  
-Interactive Resume: [pablozunigac.github.io](http://pablozunigac.github.io)  
+Interactive profile: [pablozunigac.github.io](http://pablozunigac.github.io)  
 
 ---
 
-Designing the underlying structures that make complex work coherent, navigable, and executable.  
+**About Me**  
+Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
 
