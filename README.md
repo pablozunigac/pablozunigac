@@ -1,8 +1,7 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer  
 Data & Complex Systems Engineering  
-Eastern Time Aligned / Based in Chile  
-Interactive profile: [pablozunigac.github.io](http://pablozunigac.github.io)** 
+Eastern Time Aligned / Based in Chile** 
 
 ---
 
@@ -11,7 +10,8 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ---
 
-**Inquiries: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
+**Interactive profile: [pablozunigac.github.io](http://pablozunigac.github.io)  
+Inquiries: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
 
 <!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
