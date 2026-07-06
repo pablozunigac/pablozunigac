@@ -1,7 +1,7 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer  
-Data & Complex Systems Engineering  
-Eastern Time Aligned / Based in Chile** 
+Data Infrastructure & Complex Systems Engineering  
+Remote-First · Eastern Time Aligned · Based in Chile  
 
 ---
 
