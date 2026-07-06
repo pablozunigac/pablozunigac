@@ -10,7 +10,7 @@ Designing the underlying structures that make complex work coherent, navigable, 
 
 ---
 
-**Interactive profile: [pablozunigac.github.io](http://pablozunigac.github.io)  
+**Extended Profile: [pablozunigac.github.io](http://pablozunigac.github.io)  
 Inquiries: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
 
 <!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
