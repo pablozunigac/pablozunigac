@@ -1,5 +1,7 @@
 ### Hi, I'm Pablo Zúñiga  
-**Industrial & Systems Engineer / Data & Complex Systems Engineering  
+**Industrial & Systems Engineer  
+Data & Complex Systems Engineering  
+Eastern Time Aligned / Based in Chile
 Interactive profile: [pablozunigac.github.io](http://pablozunigac.github.io)** 
 
 ---
