@@ -1,4 +1,4 @@
-## Hi, I'm Pablo Zúñiga  
+### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer / Data & Complex Systems Engineering  
 Interactive profile: [pablozunigac.github.io](http://pablozunigac.github.io)** 
 
