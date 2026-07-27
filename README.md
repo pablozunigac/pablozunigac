@@ -1,6 +1,5 @@
 ### Hi, I'm Pablo Zúñiga  
-**Industrial & Systems Engineer  
-Complex Systems Engineering  
+**Industrial & Systems Engineer | Complex Systems Engineering    
 Remote-First · Eastern Time Aligned · Based in Chile**  
 
 ---
