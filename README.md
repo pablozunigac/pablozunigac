@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer  
-Complex Systems Engineering  
+Complex Systems | Data Modeling | Semantic Design
 Remote · Based in Chile · Eastern Time Aligned**
 
 ---
