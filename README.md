@@ -1,7 +1,12 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer  
 Complex Systems / Data Modeling / Semantic Design  
-Remote · Based in Chile · Eastern Time Aligned**
+Remote · Based in Chile · Eastern Time Aligned**  
+  <div style="font-family: monospace; font-size: 1em; margin-top: 3px;">
+    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Complex Systems</span>
+    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Data Modeling</span>
+    <span style="background-color: #9d9d9e; color: #fff; padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: 500; display: inline-flex; align-items: center; justify-content: center; line-height: 1;">Semantic Design</span>
+  </div>
 
 ---
 
