@@ -1,8 +1,8 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Based in Chile · Eastern Time Aligned · H-1B1 Visa Eligible
-[pablozunigac.github.io ↗](http://pablozunigac.github.io)**
+Based in Chile · Eastern Time Aligned · H-1B1 Visa Eligible  
+Documentation: [pablozunigac.github.io ↗](http://pablozunigac.github.io)**
 
 ---
 
