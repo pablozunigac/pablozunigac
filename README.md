@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
-Data Modeling · Applied Statistics · Complex Systems Thinking  
+Data Modeling · Applied Statistics · Complex Systems  
 Remote · Based in Chile · Eastern Time Aligned**
 
 ---
