@@ -8,12 +8,12 @@ Based in Chile · Eastern Time Aligned · H-1B1 Visa Eligible
 
 ---
 
-#### Engineering Focus
+### Engineering Focus
 Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
 
-#### Selected Impact
+### Selected Impact
 * **Spatio-Temporal Risk Modeling**  
 Modeled hazard rates across 5,300 km of water utility infrastructure (1.9M+ users) using Cox regression in R.
 * **Enterprise Data Governance**  
@@ -23,7 +23,7 @@ Engineered time-series pipelines in Python/R processing pace-distance telemetry 
 
 ---
 
-#### Tech Stack & Tooling
+### Tech Stack & Tooling
 * **Languages & Advanced Analytics**  
 Python (`Pandas`, `NumPy`, `SciPy`), R (`Quarto`, `Tidyverse`, `Tsibble`), SQL, VBA.
 * **Data Architecture & Governance**  
