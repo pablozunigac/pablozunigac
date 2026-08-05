@@ -1,17 +1,13 @@
 ### Hi, I'm Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Remote · Based in Chile · Eastern Time Aligned**
+Remote · Based in Chile · Eastern Time Aligned  
+[pablozunigac.github.io ↗](http://pablozunigac.github.io)**
 
 ---
 
-### About Me 
-_Techno-agnostic_ engineer designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
-
----
-
-**Extended Profile: [pablozunigac.github.io ↗](http://pablozunigac.github.io)  
-Inquiries: [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com)**
+### High-complexity environments, distributed teams, and cross-functional workflows
+Designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 <!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
