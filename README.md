@@ -24,7 +24,7 @@ Engineered time-series pipelines in Python/R processing pace-distance telemetry 
 ---
 
 ### Tech Stack & Tooling
-* **Languages & Advanced Analytics**  
+* **Code Languages & Advanced Analytics**  
 Python (`Pandas`, `NumPy`, `SciPy`), R (`Quarto`, `Tidyverse`, `Tsibble`), SQL, VBA.
 * **Data Architecture & Governance**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (`.gpx`, `.fit`, `.kmz`).
