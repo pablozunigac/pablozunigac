@@ -28,7 +28,7 @@ Python (`Pandas`, `NumPy`, `SciPy`), R (`Quarto`, `Tidyverse`, `Tsibble`), SQL, 
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (`.gpx`, `.fit`, `.kmz`).
 * **Infrastructure & Systems**  
 Git/GitHub, Microsoft Azure, Distributed Protocols (Web3/On-Chain), BPMN/UML Process Engineering.
-* **Knowledge Systems & Documentation**. 
+* **Knowledge Systems & Documentation**  
 Notion 2.0 Engines, Markdown, LaTeX, HTML/CSS.
 
 <!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
