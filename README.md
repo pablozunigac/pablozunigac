@@ -2,7 +2,9 @@
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Based in Chile · Eastern Time Aligned · H-1B1 Visa Eligible  
-Documentation: [pablozunigac.github.io ↗](http://pablozunigac.github.io)**
+<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">pablo.zuniga.c@gmail.com</a>
+&nbsp;|&nbsp;
+<a href="https://pablozunigac.github.io/">pablozunigac.github.io</a>**
 
 ---
 
