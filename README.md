@@ -14,21 +14,21 @@ Designing the underlying structures that make complex work coherent, navigable, 
 **Selected Impact**
 * **Spatio-Temporal Risk Modeling**  
 Modeled hazard rates across 5,300 km of water utility infrastructure (1.9M+ users) using Cox regression in R.
-* **Enterprise Data Governance**
+* **Enterprise Data Governance**  
 Orchestrated automated metadata integration pipelines into MS Azure for regulated banking systems (BCI).
-* **Advanced Telemetry Analytics**
+* **Advanced Telemetry Analytics**  
 Engineered time-series pipelines in Python/R processing pace-distance telemetry across 1.8k+ athletes.
 
 ---
 
 ### Tech Stack & Tooling
-* **Languages & Advanced Analytics:**
+* **Languages & Advanced Analytics**  
 Python (`Pandas`, `NumPy`, `SciPy`), R (`Quarto`, `Tidyverse`, `Tsibble`), SQL, VBA.
-* **Data Architecture & Governance:**
+* **Data Architecture & Governance**  
 ETL/ELT Pipelines, Metadata & Ontology Modeling, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (`.gpx`, `.fit`, `.kmz`).
-* **Infrastructure & Systems:**
+* **Infrastructure & Systems**. 
 Git/GitHub, Microsoft Azure, Distributed Protocols (Web3/On-Chain), BPMN/UML Process Engineering.
-* **Knowledge Systems & Documentation:**
+* **Knowledge Systems & Documentation**. 
 Notion 2.0 Engines, Markdown, LaTeX, HTML/CSS.
 
 <!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
