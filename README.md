@@ -11,16 +11,6 @@ Polymath, techno-agnostic System Engineer designing the underlying structures th
 
 ---
 
-### Selected Impact
-* **Spatio-Temporal Risk Modeling**  
-Modeled hazard rates across 5,300 km of water utility infrastructure (1.9M+ users) using Cox regression in R.
-* **Enterprise Data Governance**  
-Orchestrated automated metadata integration pipelines into MS Azure for regulated banking systems (BCI).
-* **Advanced Telemetry Analytics**  
-Engineered time-series pipelines in Python/R processing pace-distance telemetry across 1.8k+ athletes.
-
----
-
 ### Tech Stack & Tooling
 * **Code Languages & Advanced Analytics**  
 Python (`FastAPI`, `PySpark`, `Polars`), R (`Tidyverse`, `Survival`, `Forecast`), SQL.
