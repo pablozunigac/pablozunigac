@@ -1,7 +1,7 @@
 ## Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Eastern Time Aligned · International Relocation & H-1B1/ESTA Eligible  
+Valparaíso, Chile · Eastern Time Aligned · International Relocation · H-1B1 & ESTA Eligible  
 [pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com) · [pablozunigac.github.io](https://pablozunigac.github.io/)**
 
 ---
