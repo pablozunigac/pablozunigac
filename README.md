@@ -3,6 +3,7 @@
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Eastern Time Aligned  
 _International Relocation_ · _[H-1B1](https://www.dol.gov/agencies/whd/immigration/h1b1) & [ESTA](https://cl.usembassy.gov/visa-waiver-program/) Eligible_**  
+`International Relocation Ready` · `US H-1B1/ESTA Eligible`  
 
 ---
 
