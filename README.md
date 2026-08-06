@@ -1,4 +1,4 @@
-## Pablo Zúñiga  
+# Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Eastern Time Aligned**  
