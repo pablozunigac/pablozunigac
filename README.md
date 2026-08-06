@@ -1,10 +1,8 @@
 ## Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Eastern Time Aligned · International Relocation & H-1B1/ESTA Elegible  
-<a href="mailto:pablo.zuniga.c@gmail.com?subject=Professional%20Contact">pablo.zuniga.c@gmail.com</a>
-&nbsp;|&nbsp;
-<a href="https://pablozunigac.github.io/">pablozunigac.github.io</a>**
+Valparaíso, Chile · Eastern Time Aligned · International Relocation & H-1B1/ESTA Eligible  
+[pablo.zuniga.c@gmail.com](mailto:pablo.zuniga.c@gmail.com) · [pablozunigac.github.io](https://pablozunigac.github.io/)**
 
 ---
 
@@ -27,22 +25,8 @@ Engineered time-series pipelines in Python/R processing pace-distance telemetry 
 * **Code Languages & Advanced Analytics**  
 Python (`FastAPI`, `PySpark`, `Polars`), R (`Tidyverse`, `Survival`, `Forecast`), SQL.
 * **Data Architecture & Governance**  
-ETL/ELT Pipelines, Metadata & Ontology Modeling, Enterprise Lineage, Relational Databases, Spatial Data Infrastructure (`.gpx`, `.fit`, `.kmz`).
+ETL/ELT Pipelines, Metadata & Ontology Modeling, Enterprise Lineage, Relational Databases, Spatial Data Analysis (`.gpx`, `.fit`, `.kmz`).
 * **Infrastructure & Systems**  
 Git/GitHub, Microsoft Azure, Distributed Protocols (Web3/On-Chain), BPMN/UML Process Engineering.
 * **Knowledge Systems & Documentation**  
 Notion 2.0 Engines, Quarto, Markdown, LaTeX, HTML/CSS.
-
-<!-- pablozunigac/pablozunigac is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
