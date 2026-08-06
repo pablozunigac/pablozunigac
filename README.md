@@ -19,4 +19,4 @@ ETL/ELT Pipelines, Metadata & Ontology Modeling, Enterprise Lineage, Relational 
 * **Infrastructure & Systems**  
 Git/GitHub, Microsoft Azure, Distributed Protocols (Web3/On-Chain), BPMN/UML Process Engineering.
 * **Knowledge Systems & Documentation**  
-Notion 2.0 Engines, Quarto, Markdown, LaTeX, HTML/CSS.
+Notion 2.0 Engines, `Quarto`, `Markdown`, `LaTeX`, `HTML/CSS`.
