@@ -2,7 +2,7 @@
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Eastern Time Aligned**  
-`International Relocation Ready` · `US H-1B1 & ESTA Eligible`  
+`Open to Relocation` · `US H-1B1 & ESTA Eligible`  
 
 ---
 
