@@ -4,9 +4,6 @@ Data Modeling · Applied Statistics · Complex Systems
 Valparaíso, Chile · Remote · Eastern Time Aligned**  
 `Open to Relocation` · `US H-1B1 & ESTA Eligible`  
 
----
-
-### Engineering Focus
 Polymath, techno-agnostic System Engineer designing the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
