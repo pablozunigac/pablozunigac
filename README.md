@@ -14,7 +14,7 @@ Polymath, techno-agnostic System Engineer designing the underlying structures th
 ### Tech Stack & Core Competencies
 
 * **Languages & Applied Mathematics**  
-Python (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, R (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations
+`Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations
 * **Enterprise Data Architecture**  
 Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.gpx`, `.fit`, `.kmz`)
 * **Cloud & Orchestration**  
