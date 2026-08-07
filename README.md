@@ -1,7 +1,7 @@
 # Pablo Zúñiga  
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Eastern Time Aligned**  
+Valparaíso, Chile · Remote · Eastern Time Aligned**  
 `Open to Relocation` · `US H-1B1 & ESTA Eligible`  
 
 ---
