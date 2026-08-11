@@ -1,5 +1,31 @@
 # Pablo Zúñiga  
 
+<p align="center">
+  <a href="https://github.com/pablozunigac">
+    <img src="https://img.shields.io/badge/Relocation-Open_to_Relocation-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Open to Relocation" />
+  </a>
+  <a href="https://github.com/pablozunigac">
+    <img src="https://img.shields.io/badge/US_Work_Auth-H--1B1_&_ESTA_Eligible-1E293B?style=for-the-badge&logo=usps&logoColor=white" alt="US H-1B1 & ESTA Eligible" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <code>🌎 Open to Relocation</code> &nbsp;•&nbsp; <code>🇺🇸 US H-1B1 & ESTA Eligible</code>
+</p>
+
+---
+
+<div align="center">
+
+> **Mobility & Work Authorization**  
+> 🌍 **Open to Relocation** &nbsp;|&nbsp; 🇺🇸 **US H-1B1 & ESTA Eligible** *(Chilean Citizen / Streamlined US Work Visa)*
+
+</div>
+
+---
+
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Remote · Eastern Time Aligned**  
