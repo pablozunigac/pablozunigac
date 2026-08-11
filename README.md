@@ -10,7 +10,7 @@ Valparaíso, Chile · Eastern Time Aligned**
   <code>🌎 Open to Relocation</code> &nbsp;•&nbsp; <code>🇺🇸 US H-1B1 & ESTA Eligible</code>
 </p>
 
-Engineers the underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
+Techno-agnostic engineer underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
 
 ---
 
