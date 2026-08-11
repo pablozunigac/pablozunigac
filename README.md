@@ -1,4 +1,7 @@
 # Pablo Zúñiga  
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/pablozunigac.svg)](https://ghcommits.com/u/pablozunigac)
+
 **Industrial & Systems Engineer, BSc & MSc Equivalent  
 Data Modeling · Applied Statistics · Complex Systems  
 Valparaíso, Chile · Remote · Eastern Time Aligned**  
