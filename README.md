@@ -16,11 +16,8 @@ Techno-agnostic engineer underlying structures that make complex work coherent, 
 
 ### Tech Stack & Core Competencies
 
-* **Languages & Applied Mathematics**  
-`Python` (`FastAPI`, `Polars`, `SciPy`), `TypeScript`, `SQL`, `R` (`Tidyverse`, `targets`, `forecast`), Inferential Modeling, Time-Series, MILP & Optimization, Discrete-Event & Monte Carlo Simulations
-* **Enterprise Data Architecture**  
-Containerization (`Docker`), ETL/ELT Pipelines, Metadata & Ontology Modeling, Data Governance, Enterprise Lineage, Relational Databases, Spatial & Telemetry Data Formats (`.parquet`, `.fit`)
-* **Cloud & Orchestration**  
-MS Azure, Git/GitHub (Actions CI/CD, Pages), Environment Orchestration
-* **Systems Architecture & Engineering**  
-Systems Theory & Dynamics, Process Engineering (`BPMN`), System Diagramming (`UML`), Knowledge Architectures, Technical Documentation (`Quarto`, `Markdown`, `HTML`/`CSS`)
+**Data Engineering & Cloud**  
+Python (`FastAPI`, `Polars`), TypeScript, SQL, MS Azure, Docker, GitHub Actions (CI/CD), ETL/ELT pipelines, relational databases, and Parquet.  
+ 
+**Advanced Analytics & Systems**  
+ R (`Tidyverse`, `targets`), MILP & optimization, inferential & predictive statistical modeling, Monte Carlo simulations, process modeling (`BPMN`/`UML`), data governance, and knowledge architectures (`Docs-as-Code`, `Quarto`).
