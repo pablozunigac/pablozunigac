@@ -3,12 +3,12 @@
 **Data & Systems Architect  
 Industrial & Systems Engineer (*BSc & MSc Equivalent*)  
 Data Modeling · Applied Statistics · Complex Systems  
-Valparaíso, Chile · Eastern Time Aligned**   
+Santiago, Chile · Eastern Time Aligned**   
 
 ---
 
 <p align="center">
-  <code>🌎 Open to Relocation</code> &nbsp;•&nbsp; <code>🇺🇸 US H-1B1 & ESTA Eligible</code> &nbsp;•&nbsp; <code>🇪🇺 EU Blue Card Eligible</code>
+  <code>🌎 Open to Relocation</code> &nbsp;•&nbsp; <code>🇺🇸 US H-1B1 Eligible</code> &nbsp;•&nbsp; <code>🇪🇺 EU Blue Card Eligible</code>
 </p>
 
 Techno-agnostic engineer underlying structures that make complex work coherent, navigable, and executable. I build governance frameworks, information architectures, and operational systems that reduce coordination friction, improve decision quality, and preserve systemic integrity under conditions of scale, complexity, and ambiguity.
