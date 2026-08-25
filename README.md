@@ -1,6 +1,6 @@
 # Pablo Zúñiga  
 
-**Data & Systems Architect  
+**Deployment Strategy & Operational Analytics  
 Industrial & Systems Engineer (*BSc & MSc Equivalent*)  
 Data Modeling · Applied Statistics · Complex Systems  
 Santiago, Chile · Eastern Time Aligned**   
